@@ -7,7 +7,7 @@
     >
 </div>
 
-# **What is Go (Golang) ** ?
+# What is Go (Golang) ?
 
 *Go*, also known as *Golang*, is a free and open-source programming language designed at Google. It was created to improve programming productivity in an era of multicore, networked machines, and large codebases. Go is syntactically similar to C but provides memory safety, garbage collection, structural typing, and CSP-style concurrency.
 
