@@ -33,7 +33,7 @@ The Go compiler and tools are open-source and distributed under the BSD-style li
 ***
 
 <p align="center">
-  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2023 - Present</i><br>
+  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2025 - Present</i><br>
   <i>Licensed under <a href="https://mit-license.org/">MIT</a></i><br>
   <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
   <kbd>Thanks for visiting :)</kbd>
